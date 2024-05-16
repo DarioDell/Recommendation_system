@@ -6,3 +6,7 @@ The database selected for the project is: WildWorldImporters
 The database has a fictional company for the import and retail of the products.
 The database schema mainly includes tables such as customers, suppliers, products, orders, inventory, etc. The major function of this database is to help developers understand and practically connect with database operations, SQL queries, 
 and other tasks related to database management.
+For the implementation of the project, I will use three primary tools:
+- SQL Server
+- Python
+- PowerBi
