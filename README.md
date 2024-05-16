@@ -5,4 +5,4 @@ Is an area of software development that uses the technology of analyzing large v
 
 The recommendation system involves algorithms and machine learning techniques that analyze past user interactions (like the history of purchases, searches, ratings, clicks, so on), then they compare it with the behavior of other users that have a similar user profile. The data analysis of a consumer behavior helps the system to guess which goods or items would be popular for the user and rank them in the manner of personalized recommendations.
 
-These software systems are one of the most used by digital platforms for e-commerce, music and video streaming, social networks, news portals, et al., to give the user an unparalleled experience and improve the content relevance.
+These software systems are one of the most used by digital platforms for e-commerce, music and video streaming, social networks, news portals, etc., to give the user an unparalleled experience and improve the content relevance.
