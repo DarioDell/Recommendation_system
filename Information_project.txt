@@ -1,0 +1,8 @@
+In this project I will present a type of recommendation system known as 'collaborative filtering', this method is based on collecting and analyzing user behavior data.
+Collaborative filtering can predict a user's behavior by analyzing the behavior of other customers with similar characteristics.
+
+The database selected for the project is: WildWorldImporters
+"WildWorldImporters" is a database designed by Microsoft and offered as a working example. The intention was to demonstrate a real-world environment with SQL Server usage and its benefits. 
+The database has a fictional company for the import and retail of the products.
+The database schema mainly includes tables such as customers, suppliers, products, orders, inventory, etc. The major function of this database is to help developers understand and practically connect with database operations, SQL queries, 
+and other tasks related to database management.
